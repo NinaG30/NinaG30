@@ -8,7 +8,7 @@ i've been learning and coding since 3 years now.
 
 *   🌍  I'm based in France, in Nîmes.
 *   ✉️  You can contact me at [nina.guemart@gmail.com](mailto:nina.guemart@gmail.com)
-*   🧠  I'm learning Flask
+*   🧠  I mainly code in Symfony 7 & Javascript
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  A bit of me : i like to write stories, play video games (rpg,mmorpg,jrpg) and board games, watch movies, hang out with friends.
 *   ### Skills 
