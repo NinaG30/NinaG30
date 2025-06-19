@@ -6,7 +6,6 @@ I'm a web developer
 
 i've been learning and coding since 3 years now.
 
-### Study
 I’m currently in a work-study program to become a DevOps System Administrator. I’m learning to set up CI/CD pipelines, use Terraform, Docker, Kubernetes, and deploy applications on AWS.
 
 *   🌍  I'm based in France, in Nîmes.
